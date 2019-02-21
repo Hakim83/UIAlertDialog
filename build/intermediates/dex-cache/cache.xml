@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Mohammed\AndroidStudioProjects\UIAlertDialog\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\Mohammed\AndroidStudioProjects\UIAlertDialog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_37cad5fe0e66a4e5811e77a829ab7573654e33cb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mohammed\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\Mohammed\AndroidStudioProjects\UIAlertDialog\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_6892039d7fa290430235ae2e415a327e1dfb97e5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mohammed\AndroidStudioProjects\UIAlertDialog\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\Mohammed\AndroidStudioProjects\UIAlertDialog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_46df2a1a963fe786cb50e6447731a26dbaee4058\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mohammed\AndroidStudioProjects\UIAlertDialog\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\Mohammed\AndroidStudioProjects\UIAlertDialog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_d5af5c8fee46e02bcc5af2f6c5a45af0cccaba6c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mohammed\AndroidStudioProjects\UIAlertDialog\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\Mohammed\AndroidStudioProjects\UIAlertDialog\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_cd3384a20c72e7bec573810c089faa23d8efd2c5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mohammed\AndroidStudioProjects\UIAlertDialog\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="90a70c1bc798736e5e2b4a8725b8b5cd81954247">
+        <dex dex="C:\Users\Mohammed\AndroidStudioProjects\UIAlertDialog\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_441d0fa27cb5a5cc4e95aa389c2b0e0682861ce0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mohammed\AndroidStudioProjects\UIAlertDialog\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f74b3140fb05d5f303f19084be67723372be455e">
+        <dex dex="C:\Users\Mohammed\AndroidStudioProjects\UIAlertDialog\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2965fae0259d7e20ac46c513f26b0534ed59cb6d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mohammed\AndroidStudioProjects\UIAlertDialog\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\Mohammed\AndroidStudioProjects\UIAlertDialog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_9c918ed677cf3b0da0a89c6e1a4993dec4293740\classes.dex" />
+    </item>
+
+</items>
